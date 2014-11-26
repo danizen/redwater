@@ -1,0 +1,5 @@
+body { background-color: gray; color: #8B0000; }
+h1 { text-shadow: 1px 1px 1px #000; }
+img { border: 5px solid #333; }
+ul { list-style: none; }
+li { padding-top: 3em; }
